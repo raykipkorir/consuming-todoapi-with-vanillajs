@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(249, 250, 251);
+  font-family: "Poppins", sans-serif;
+}
+li {
+  list-style: none;
+}
+i {
+  cursor: pointer;
+}
+i:hover{
+  color: blue;
+}
